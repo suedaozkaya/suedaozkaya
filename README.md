@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently taking **Techpro Education Full-Stack Java Developer Course**
 
+- 📚 I’m currently **a computer engineering student at IZTECH**
+
 - 🌱 I’m currently learning **Lambda, SQL**
 
 - 📝 I regularly write articles on [https://medium.com/@ozkayasueda](https://medium.com/@ozkayasueda)
