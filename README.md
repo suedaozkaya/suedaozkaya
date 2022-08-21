@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sueda</h1>
+<h1 align="center">Hi 👋, I'm Sueda!</h1>
 <h3 align="center">A passionate full-stack java developer candidate from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/362/36246.gif">
 
