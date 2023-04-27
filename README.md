@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suedaozkaya&label=Profile%20views&color=0e75b6&style=flat" alt="suedaozkaya" /> </p>
 
-- 🔭 I’m currently taking **Techpro Education Full-Stack Java Developer Course**
-
 - 📚 I’m currently **a computer engineering student at IZTECH**
 
 - 🌱 I’m currently learning **Hibernate**
