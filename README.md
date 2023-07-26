@@ -6,9 +6,7 @@
 
 - 📚 I’m currently **a computer engineering student at IZTECH**
 
-- 🌱 I’m currently learning **Hibernate**
-
-- 📝 I regularly write articles on [https://medium.com/@ozkayasueda](https://medium.com/@ozkayasueda)
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **ozkayasueda17@gmail.com**
 
