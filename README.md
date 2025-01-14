@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sueda!</h1>
 
-- 📚 I’m **a computer engineering student at IZTECH**
+- 📚 I’m **an Information Engineering student at TUM**
 
 - 🌱 I’m currently learning **Spring**
 
